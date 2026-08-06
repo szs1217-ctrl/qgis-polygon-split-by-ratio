@@ -1,0 +1,16 @@
+[general]
+name=Polygon Split By Ratio
+qgisMinimumVersion=3.0
+description=Split a polygon into parts by given area ratios, using cut lines parallel to a chosen reference line
+version=1.0
+author=szs
+email=szs1217@gmail.com
+about=Splits a selected polygon into any number of parts according to given area ratios (e.g. 3,2,1). The cut lines run parallel to a reference line the user selects (e.g. a forest road or compartment boundary), making it useful for forestry stand/compartment subdivision and similar cadastral or planning tasks. / A kivalasztott poligont tetszoleges szamu reszre osztja a megadott teruletaranyok szerint (pl. 3,2,1), a vagovonalak egy kivalasztott referenciavonallal (pl. erdeszeti ut, tag/reszlethatar) parhuzamosak. Hasznos erdeszeti reszlet-felosztashoz es hasonlo kataszteri/tervezesi feladatokhoz.
+tags=vector,polygon,split,forestry,cadastre,erdeszet,felosztas
+tracker=
+repository=
+homepage=
+category=Vector
+icon=icon.png
+experimental=True
+deprecated=False
